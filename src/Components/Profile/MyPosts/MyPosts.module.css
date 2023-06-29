@@ -1,0 +1,21 @@
+.myPosts {
+    display: flex;
+}
+
+.postsBlock {
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 10px;
+}
+form {
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.addPostForm {
+    margin: 10px;
+}

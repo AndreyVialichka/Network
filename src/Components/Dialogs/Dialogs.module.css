@@ -1,0 +1,35 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogs_items  {
+    padding: 10px;
+}
+.dialogs_items .active {
+    color: gold;
+}
+
+.message  {
+    background-color: rgba(65, 166, 255,0.33);
+    margin: 20px;
+    padding: 5px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    max-width: 400px;
+}
+
+.wrapper {
+    width: 50%;
+    margin-top: 10px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255,0.8);
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+
+.person {
+    display: flex;
+    width: 70px;
+    padding: 20px;
+}

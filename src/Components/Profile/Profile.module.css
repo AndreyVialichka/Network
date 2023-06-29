@@ -1,0 +1,9 @@
+.content{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 20px;
+}
